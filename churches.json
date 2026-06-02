@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "name": "Graceland House Church",
+    "city": "Johannesburg",
+    "neighborhood": "Sandton",
+    "address": "14 Rivonia Road, Sandton, Johannesburg",
+    "phone": "+27111234567",
+    "pastor": "Pastor James Mokoena",
+    "lat": -26.1076,
+    "lng": 28.0567
+  },
+  {
+    "id": 2,
+    "name": "Living Waters Fellowship",
+    "city": "Johannesburg",
+    "neighborhood": "Soweto",
+    "address": "3 Vilakazi Street, Orlando West, Soweto",
+    "phone": "+27117654321",
+    "pastor": "Sister Nompumelelo Dlamini",
+    "lat": -26.2480,
+    "lng": 27.8534
+  },
+  {
+    "id": 3,
+    "name": "Cornerstone House Church",
+    "city": "Pretoria",
+    "neighborhood": "Hatfield",
+    "address": "22 Burnett Street, Hatfield, Pretoria",
+    "phone": "+27125551234",
+    "pastor": "Pastor Samuel Khumalo",
+    "lat": -25.7479,
+    "lng": 28.2372
+  },
+  {
+    "id": 4,
+    "name": "Refuge House Church",
+    "city": "Pretoria",
+    "neighborhood": "Sunnyside",
+    "address": "8 Festival Street, Sunnyside, Pretoria",
+    "phone": "+27125559876",
+    "pastor": "Deaconess Faith Molefe",
+    "lat": -25.7535,
+    "lng": 28.2150
+  },
+  {
+    "id": 5,
+    "name": "Harvest Gate Fellowship",
+    "city": "Cape Town",
+    "neighborhood": "Bellville",
+    "address": "45 Durban Road, Bellville, Cape Town",
+    "phone": "+27219871234",
+    "pastor": "Pastor Andile Botha",
+    "lat": -33.8972,
+    "lng": 18.6308
+  },
+  {
+    "id": 6,
+    "name": "New Dawn House Church",
+    "city": "Cape Town",
+    "neighborhood": "Mitchells Plain",
+    "address": "12 Portlands Ave, Mitchells Plain, Cape Town",
+    "phone": "+27213456789",
+    "pastor": "Sister Lindiwe Jacobs",
+    "lat": -34.0461,
+    "lng": 18.6253
+  },
+  {
+    "id": 7,
+    "name": "Fountain of Life",
+    "city": "Durban",
+    "neighborhood": "Pinetown",
+    "address": "7 Old Main Road, Pinetown, Durban",
+    "phone": "+27312223333",
+    "pastor": "Pastor Bongani Ntuli",
+    "lat": -29.8179,
+    "lng": 30.8606
+  },
+  {
+    "id": 8,
+    "name": "Solid Rock House Church",
+    "city": "Durban",
+    "neighborhood": "Umlazi",
+    "address": "3 Nkosi Crescent, Umlazi, Durban",
+    "phone": "+27317776543",
+    "pastor": "Pastor Thandi Mkhize",
+    "lat": -29.9643,
+    "lng": 30.8861
+  },
+  {
+    "id": 9,
+    "name": "Abundant Life Fellowship",
+    "city": "Port Elizabeth",
+    "neighborhood": "Gqeberha Central",
+    "address": "55 Main Street, Gqeberha, Eastern Cape",
+    "phone": "+27415554321",
+    "pastor": "Pastor Pieter van Wyk",
+    "lat": -33.9608,
+    "lng": 25.6022
+  },
+  {
+    "id": 10,
+    "name": "Zion House Church",
+    "city": "East London",
+    "neighborhood": "Mdantsane",
+    "address": "2 NU4 Main Road, Mdantsane, East London",
+    "phone": "+27438884321",
+    "pastor": "Sister Nomsa Grootboom",
+    "lat": -32.9527,
+    "lng": 27.7640
+  }
+]
